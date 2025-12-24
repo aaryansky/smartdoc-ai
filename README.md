@@ -52,28 +52,30 @@ SmartDoc AI is a multimodal document assistant that transforms static documents 
 
 Follow these steps to run the project locally.
 
-1. Clone the Repository
-2.        git clone https://github.com/aaryansky/smartdoc-ai.git
+Clone the Repository
+
+          git clone https://github.com/aaryansky/smartdoc-ai.git
           cd smartdoc-ai
 
-4. Create a Virtual Environment
-    python -m venv venv
-    # Windows
-    venv\Scripts\activate
-    # Mac/Linux
-    source venv/bin/activate
+Create a Virtual Environment
 
-5. Install Dependencies
-   
-    pip install -r requirements.txt
+        python -m venv venv
+        # Windows
+        venv\Scripts\activate
+        # Mac/Linux
+        source venv/bin/activate
 
-6. Configure API Keys
+Install Dependencies
+
+        pip install -r requirements.txt
+
+Configure API Keys
    
    Create a file named .env in the root directory and add your NVIDIA API key:
    
     NVIDIA_API_KEY=nvapi-xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
-7. Run the Application
+Run the Application
    
     streamlit run app.py
 
