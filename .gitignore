@@ -1,0 +1,27 @@
+# --- Python & Environment ---
+venv/
+env/
+.env
+
+# --- Compiled Files ---
+__pycache__/
+*.pyc
+
+# --- SmartDoc AI Data ---
+# Ignore uploaded files (Privacy)
+data/uploads/
+# Ignore ChandraOCR markdown outputs (Privacy)
+data/outputs/
+
+# --- Temporary Processing Files ---
+# Our code creates these temp files during OCR
+temp_*.jpg
+temp_*.png
+
+# --- Debug Scripts ---
+# Keep these locally for testing, but don't push to GitHub
+debug_*.py
+
+# --- IDE Settings (Optional) ---
+.vscode/
+.idea/
