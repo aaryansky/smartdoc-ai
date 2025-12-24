@@ -1,4 +1,5 @@
 📄 SmartDoc AI: Intelligent Document Analysis & RAG Tool
+
 SmartDoc AI is a multimodal document assistant that transforms static documents (PDFs, Images) into interactive, searchable data. It combines robust OCR pipelines with Large Language Models (LLMs) to allow users to "chat" with their resumes, invoices, and technical reports in real-time.
 
 🚀 Key Features
