@@ -1,3 +1,15 @@
+---
+title: SmartDoc AI
+emoji: 📄
+colorFrom: blue
+colorTo: indigo
+sdk: streamlit
+sdk_version: 1.39.0
+app_file: app.py
+pinned: false
+license: mit
+---
+
 📄 SmartDoc AI: Intelligent Document Analysis & RAG Tool
 
 SmartDoc AI is a multimodal document assistant that transforms static documents (PDFs, Images) into interactive, searchable data. It combines robust OCR pipelines with Large Language Models (LLMs) to allow users to "chat" with their resumes, invoices, and technical reports in real-time.
