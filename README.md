@@ -32,6 +32,7 @@ SmartDoc AI is a multimodal document assistant that transforms static documents 
 📂 Project Structure
 
 smartdoc-ai/
+
 ├── assets/              
 │   └── app_screenshot.png
 ├── src/                 
