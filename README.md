@@ -10,7 +10,7 @@ pinned: false
 license: mit
 ---
 
-[![Hugging Face Spaces](https://img.shields.io/badge/🤗%20Hugging%20Face-Open%20Live%20App-blue)](https://huggingface.co/spaces/aaryansky/smartdoc-ai)
+[![Hugging Face Spaces](https://img.shields.io/badge/🤗%20Hugging%20Face-Open%20Live%20App-blue)](https://huggingface.co/spaces/Aryan2118/smartdoc-ai)
 
 📄 SmartDoc AI: Intelligent Document Analysis & RAG Tool
 
