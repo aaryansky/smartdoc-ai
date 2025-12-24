@@ -38,10 +38,12 @@ smartdoc-ai/
 
 ├── src/                 
 │   ├── ocr_engine.py
+
 │   └── llm_engine.py
 
 ├── data/   
 │   ├── outputs
+
 │   └── uploads          # Your uploaded documents goes here   
 
 ├── .env                 # API Keys 
