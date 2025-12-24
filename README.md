@@ -18,17 +18,18 @@ SmartDoc AI is a multimodal document assistant that transforms static documents 
 5. Interactive UI: Built with Streamlit for a responsive, user-friendly web interface.
 
 🛠️ Tech Stack
--> Language: Python 3.9+
 
--> Frontend: Streamlit
+    -> Language: Python 3.9+
 
--> OCR Engines: EasyOCR, PyMuPDF (Fitz), ChandraOCR
+    -> Frontend: Streamlit
 
--> LLM Integration: NVIDIA API (Nemotron-70B-Instruct) via OpenAI SDK
+    -> OCR Engines: EasyOCR, PyMuPDF (Fitz), ChandraOCR
 
--> Image Processing: OpenCV, NumPy
+    -> LLM Integration: NVIDIA API (Nemotron-70B-Instruct) via OpenAI SDK
 
--> Environment Management: Python Dotenv
+    -> Image Processing: OpenCV, NumPy
+
+    -> Environment Management: Python Dotenv
 
 📂 Project Structure
 
