@@ -10,6 +10,8 @@ pinned: false
 license: mit
 ---
 
+[![Hugging Face Spaces](https://img.shields.io/badge/🤗%20Hugging%20Face-Open%20Live%20App-blue)](https://huggingface.co/spaces/aaryansky/smartdoc-ai)
+
 📄 SmartDoc AI: Intelligent Document Analysis & RAG Tool
 
 SmartDoc AI is a multimodal document assistant that transforms static documents (PDFs, Images) into interactive, searchable data. It combines robust OCR pipelines with Large Language Models (LLMs) to allow users to "chat" with their resumes, invoices, and technical reports in real-time.
