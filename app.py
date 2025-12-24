@@ -44,7 +44,7 @@ with col1:
             with fitz.open(save_path) as doc:
                 page = doc.load_page(0)
                 pix = page.get_pixmap()
-                st.image(pix.tobytes("png"), caption="PDF Preview (Page 1)", use_container_width=True)
+                st.image(pix.tobytes("png"), caption="PDF Preview (Page 1)", use_column_width=True)
         else:
             # Standard image preview
             st.image(save_path, caption="Image Preview", use_container_width=True)
