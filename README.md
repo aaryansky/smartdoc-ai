@@ -39,13 +39,19 @@ smartdoc-ai/
 ├── src/                 
 │   ├── ocr_engine.py
 │   └── llm_engine.py
+
 ├── data/   
 │   ├── outputs
-│   └── uploads          # Your uploaded documents goes here           
+│   └── uploads          # Your uploaded documents goes here   
+
 ├── .env                 # API Keys 
+
 ├── .gitignore           # Git rules
-├── app.py               # Main App          
+
+├── app.py               # Main App        
+
 ├── README.md            # Documentation
+
 └── requirements.txt     # contains all libraries that needs to be installed
 
 ⚙️ Installation & Setup
