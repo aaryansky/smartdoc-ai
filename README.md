@@ -35,6 +35,7 @@ smartdoc-ai/
 
 ├── assets/              
 │   └── app_screenshot.png
+
 ├── src/                 
 │   ├── ocr_engine.py
 │   └── llm_engine.py
